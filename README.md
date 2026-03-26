@@ -1,3 +1,7 @@
+
+#A clean, modular, and scalable backend API for managing reusable prompts. Built with Bun, TypeScript, Fastify, Zod validation, and a service‑driven architecture. Designed for developers who want a structured way to store, organise, and retrieve prompts for AI workflows or automation systems.
+
+
 # nodejs
 
 To install dependencies:
